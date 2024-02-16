@@ -1,0 +1,157 @@
+{
+  "word": "Artificial Intelligence",
+  "children": [
+    {
+      "word": "Machine Learning",
+      "children": []
+    },
+    {
+      "word": "Neural Networks",
+      "children": [
+        {
+          "word": "Artificial Intelligence",
+          "children": [
+            {
+              "word": "Machine Learning",
+              "children": []
+            },
+            {
+              "word": "Deep Learning",
+              "children": []
+            },
+            {
+              "word": "Neural Networks",
+              "children": [
+                {
+                  "word": "Artificial Intelligence",
+                  "children": []
+                },
+                {
+                  "word": "Machine Learning",
+                  "children": []
+                },
+                {
+                  "word": "Deep Learning",
+                  "children": []
+                },
+                {
+                  "word": "Neurons",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Data Science",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Neurons",
+          "children": [
+            {
+              "word": "Brain",
+              "children": [
+                {
+                  "word": "Cognitive",
+                  "children": []
+                },
+                {
+                  "word": "Neuron",
+                  "children": []
+                },
+                {
+                  "word": "Memory",
+                  "children": []
+                },
+                {
+                  "word": "Intelligence",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Nervous system",
+              "children": [
+                {
+                  "word": "Brain",
+                  "children": []
+                },
+                {
+                  "word": "Spinal cord",
+                  "children": []
+                },
+                {
+                  "word": "Neurons",
+                  "children": []
+                },
+                {
+                  "word": "Peripheral nerves",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Synapse",
+              "children": [
+                {
+                  "word": "Neuron",
+                  "children": []
+                },
+                {
+                  "word": "Brain",
+                  "children": []
+                },
+                {
+                  "word": "Connection",
+                  "children": []
+                },
+                {
+                  "word": "Electrical",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Neurotransmitter",
+              "children": [
+                {
+                  "word": "Dopamine",
+                  "children": []
+                },
+                {
+                  "word": "Serotonin",
+                  "children": []
+                },
+                {
+                  "word": "Acetylcholine",
+                  "children": []
+                },
+                {
+                  "word": "GABA",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Data Science",
+      "children": []
+    },
+    {
+      "word": "Computer Vision",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "word": "Artificial Intelligence",
+  "children": [
+    {
+      "word": "Machine Learning",
+      "children": [
+        {
+          "word": "Supervised Learning",
+          "children": [
+            {
+              "word": "Classification",
+              "children": [
+                {
+                  "word": "Decision Tree",
+                  "children": [
+                    {
+                      "word": "Entropy",
+                      "children": []
+                    },
+                    {
+                      "word": "Information Gain",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "word": "Support Vector Machine",
+                  "children": [
+                    {
+                      "word": "Kernel Function",
+                      "children": []
+                    },
+                    {
+                      "word": "Hyperplane",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "word": "Regression",
+              "children": [
+                {
+                  "word": "Linear Regression",
+                  "children": [
+                    {
+                      "word": "Slope",
+                      "children": []
+                    },
+                    {
+                      "word": "Intercept",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "word": "Logistic Regression",
+                  "children": [
+                    {
+                      "word": "Odds Ratio",
+                      "children": []
+                    },
+                    {
+                      "word": "Sigmoid Function",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Unsupervised Learning",
+          "children": [
+            {
+              "word": "Clustering",
+              "children": [
+                {
+                  "word": "K-means",
+                  "children": [
+                    {
+                      "word": "Centroid",
+                      "children": []
+                    },
+                    {
+                      "word": "Cluster Assignment",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "word": "Hierarchical Clustering",
+                  "children": [
+                    {
+                      "word": "Agglomerative",
+                      "children": []
+                    },
+                    {
+                      "word": "Dendrogram",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "word": "Dimensionality Reduction",
+              "children": [
+                {
+                  "word": "Principal Component Analysis",
+                  "children": [
+                    {
+                      "word": "Eigenvalue",
+                      "children": []
+                    },
+                    {
+                      "word": "Eigenvector",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "word": "Autoencoder",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Neural Networks",
+      "children": []
+    }
+  ]
+}
+

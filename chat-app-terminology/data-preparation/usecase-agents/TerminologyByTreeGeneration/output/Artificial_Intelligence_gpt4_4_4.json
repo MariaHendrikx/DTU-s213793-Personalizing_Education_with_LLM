@@ -1,0 +1,786 @@
+{
+  "word": "Artificial Intelligence",
+  "children": [
+    {
+      "word": "Machine Learning",
+      "children": [
+        {
+          "word": "Supervised Learning",
+          "children": [
+            {
+              "word": "Classification",
+              "children": [
+                {
+                  "word": "Binary Classification",
+                  "children": []
+                },
+                {
+                  "word": "Multiclass Classification",
+                  "children": []
+                },
+                {
+                  "word": "Logistic Regression",
+                  "children": []
+                },
+                {
+                  "word": "Support Vector Machines",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Regression",
+              "children": [
+                {
+                  "word": "Linear Regression",
+                  "children": []
+                },
+                {
+                  "word": "Logistic Regression",
+                  "children": []
+                },
+                {
+                  "word": "Multivariate Regression",
+                  "children": []
+                },
+                {
+                  "word": "Polynomial Regression",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Decision Trees",
+              "children": [
+                {
+                  "word": "Random Forest",
+                  "children": []
+                },
+                {
+                  "word": "Node",
+                  "children": []
+                },
+                {
+                  "word": "Entropy",
+                  "children": []
+                },
+                {
+                  "word": "Information Gain",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Training Data",
+              "children": [
+                {
+                  "word": "Test Data",
+                  "children": []
+                },
+                {
+                  "word": "Validation Data",
+                  "children": []
+                },
+                {
+                  "word": "Data Set",
+                  "children": []
+                },
+                {
+                  "word": "Overfitting",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Unsupervised Learning",
+          "children": [
+            {
+              "word": "Clustering",
+              "children": [
+                {
+                  "word": "K-means",
+                  "children": []
+                },
+                {
+                  "word": "Hierarchical Clustering",
+                  "children": []
+                },
+                {
+                  "word": "Density-Based Clustering",
+                  "children": []
+                },
+                {
+                  "word": "Cluster Analysis",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Dimensionality Reduction",
+              "children": [
+                {
+                  "word": "Principal Component Analysis",
+                  "children": []
+                },
+                {
+                  "word": "Linear Discriminant Analysis",
+                  "children": []
+                },
+                {
+                  "word": "Factor Analysis",
+                  "children": []
+                },
+                {
+                  "word": "Feature Selection",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Anomaly Detection",
+              "children": [
+                {
+                  "word": "Outlier",
+                  "children": []
+                },
+                {
+                  "word": "Z-score",
+                  "children": []
+                },
+                {
+                  "word": "Standard Deviation",
+                  "children": []
+                },
+                {
+                  "word": "Machine Learning",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Association Rules",
+              "children": [
+                {
+                  "word": "Apriori Algorithm",
+                  "children": []
+                },
+                {
+                  "word": "Frequent Itemsets",
+                  "children": []
+                },
+                {
+                  "word": "Support",
+                  "children": []
+                },
+                {
+                  "word": "Confidence",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Reinforcement Learning",
+          "children": [
+            {
+              "word": "Q-Learning",
+              "children": [
+                {
+                  "word": "State-Action-Reward-State-Action",
+                  "children": []
+                },
+                {
+                  "word": "Exploration and Exploitation",
+                  "children": []
+                },
+                {
+                  "word": "Policy",
+                  "children": []
+                },
+                {
+                  "word": "Value Function",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Policy Gradient",
+              "children": [
+                {
+                  "word": "Actor-Critic Methods",
+                  "children": []
+                },
+                {
+                  "word": "Reward Function",
+                  "children": []
+                },
+                {
+                  "word": "Deep Reinforcement Learning",
+                  "children": []
+                },
+                {
+                  "word": "Monte Carlo Methods",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Deep Learning",
+              "children": [
+                {
+                  "word": "Neural Networks",
+                  "children": []
+                },
+                {
+                  "word": "Convolutional Neural Networks",
+                  "children": []
+                },
+                {
+                  "word": "Recurrent Neural Networks",
+                  "children": []
+                },
+                {
+                  "word": "Deep Belief Networks",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Markov Decision Process",
+              "children": [
+                {
+                  "word": "States",
+                  "children": []
+                },
+                {
+                  "word": "Actions",
+                  "children": []
+                },
+                {
+                  "word": "Reward Function",
+                  "children": []
+                },
+                {
+                  "word": "Transition Probability",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Prediction Algorithms",
+          "children": [
+            {
+              "word": "Linear Regression",
+              "children": [
+                {
+                  "word": "Coefficient of Determination",
+                  "children": []
+                },
+                {
+                  "word": "Least Squares Method",
+                  "children": []
+                },
+                {
+                  "word": "Residuals",
+                  "children": []
+                },
+                {
+                  "word": "Multivariate Linear Regression",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Decision Trees",
+              "children": [
+                {
+                  "word": "Random Forest",
+                  "children": []
+                },
+                {
+                  "word": "Node",
+                  "children": []
+                },
+                {
+                  "word": "Entropy",
+                  "children": []
+                },
+                {
+                  "word": "Information Gain",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Naive Bayes",
+              "children": [
+                {
+                  "word": "Bayesian Network",
+                  "children": []
+                },
+                {
+                  "word": "Prior Probability",
+                  "children": []
+                },
+                {
+                  "word": "Posterior Probability",
+                  "children": []
+                },
+                {
+                  "word": "Likelihood",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "K-Nearest Neighbors",
+              "children": [
+                {
+                  "word": "Distance Metric",
+                  "children": []
+                },
+                {
+                  "word": "Classification",
+                  "children": []
+                },
+                {
+                  "word": "Regression",
+                  "children": []
+                },
+                {
+                  "word": "Outlier Detection",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Neural Networks",
+      "children": [
+        {
+          "word": "Perceptron",
+          "children": [
+            {
+              "word": "Weights",
+              "children": [
+                {
+                  "word": "Bias",
+                  "children": []
+                },
+                {
+                  "word": "Neurons",
+                  "children": []
+                },
+                {
+                  "word": "Backpropagation",
+                  "children": []
+                },
+                {
+                  "word": "Gradient Descent",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Activation Function",
+              "children": [
+                {
+                  "word": "Sigmoid Function",
+                  "children": []
+                },
+                {
+                  "word": "Rectified Linear Unit",
+                  "children": []
+                },
+                {
+                  "word": "Hyperbolic Tangent",
+                  "children": []
+                },
+                {
+                  "word": "Softmax Function",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Learning Rate",
+              "children": [
+                {
+                  "word": "Gradient Descent",
+                  "children": []
+                },
+                {
+                  "word": "Backpropagation",
+                  "children": []
+                },
+                {
+                  "word": "Stochastic Gradient Descent",
+                  "children": []
+                },
+                {
+                  "word": "Optimization",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Error Gradient",
+              "children": [
+                {
+                  "word": "Backpropagation",
+                  "children": []
+                },
+                {
+                  "word": "Loss Function",
+                  "children": []
+                },
+                {
+                  "word": "Gradient Descent",
+                  "children": []
+                },
+                {
+                  "word": "Learning Rate",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Backpropagation",
+          "children": [
+            {
+              "word": "Weights",
+              "children": [
+                {
+                  "word": "Bias",
+                  "children": []
+                },
+                {
+                  "word": "Neurons",
+                  "children": []
+                },
+                {
+                  "word": "Backpropagation",
+                  "children": []
+                },
+                {
+                  "word": "Gradient Descent",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Neural Networks",
+              "children": [
+                {
+                  "word": "Perceptron",
+                  "children": []
+                },
+                {
+                  "word": "Backpropagation",
+                  "children": []
+                },
+                {
+                  "word": "Activation Function",
+                  "children": []
+                },
+                {
+                  "word": "Deep Learning",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Learning Rate",
+              "children": [
+                {
+                  "word": "Gradient Descent",
+                  "children": []
+                },
+                {
+                  "word": "Backpropagation",
+                  "children": []
+                },
+                {
+                  "word": "Stochastic Gradient Descent",
+                  "children": []
+                },
+                {
+                  "word": "Optimization",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Gradient Descent",
+              "children": [
+                {
+                  "word": "Learning Rate",
+                  "children": []
+                },
+                {
+                  "word": "Cost Function",
+                  "children": []
+                },
+                {
+                  "word": "Convergence",
+                  "children": []
+                },
+                {
+                  "word": "Stochastic Gradient Descent",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Activation Function",
+          "children": [
+            {
+              "word": "Sigmoid Function",
+              "children": [
+                {
+                  "word": "Logistic Regression",
+                  "children": []
+                },
+                {
+                  "word": "Neural Networks",
+                  "children": []
+                },
+                {
+                  "word": "Activation Function",
+                  "children": []
+                },
+                {
+                  "word": "Probability Estimation",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Rectified Linear Unit",
+              "children": [
+                {
+                  "word": "ReLU",
+                  "children": []
+                },
+                {
+                  "word": "Neural Networks",
+                  "children": []
+                },
+                {
+                  "word": "Activation Function",
+                  "children": []
+                },
+                {
+                  "word": "Leaky ReLU",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Hyperbolic Tangent",
+              "children": [
+                {
+                  "word": "Tanh",
+                  "children": []
+                },
+                {
+                  "word": "Neural Networks",
+                  "children": []
+                },
+                {
+                  "word": "Activation Function",
+                  "children": []
+                },
+                {
+                  "word": "Sigmoid Function",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Softmax Function",
+              "children": [
+                {
+                  "word": "Multiclass Classification",
+                  "children": []
+                },
+                {
+                  "word": "Neural Networks",
+                  "children": []
+                },
+                {
+                  "word": "Activation Function",
+                  "children": []
+                },
+                {
+                  "word": "Probability Distribution",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Deep Learning",
+          "children": [
+            {
+              "word": "Neural Networks",
+              "children": [
+                {
+                  "word": "Perceptron",
+                  "children": []
+                },
+                {
+                  "word": "Backpropagation",
+                  "children": []
+                },
+                {
+                  "word": "Activation Function",
+                  "children": []
+                },
+                {
+                  "word": "Deep Learning",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Convolutional Neural Networks",
+              "children": [
+                {
+                  "word": "Feature Maps",
+                  "children": []
+                },
+                {
+                  "word": "Pooling",
+                  "children": []
+                },
+                {
+                  "word": "Filters",
+                  "children": []
+                },
+                {
+                  "word": "Image Classification",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Recurrent Neural Networks",
+              "children": [
+                {
+                  "word": "Long Short-Term Memory",
+                  "children": []
+                },
+                {
+                  "word": "Gated Recurrent Unit",
+                  "children": []
+                },
+                {
+                  "word": "Sequence Prediction",
+                  "children": []
+                },
+                {
+                  "word": "Time Series Analysis",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Deep Belief Networks",
+              "children": [
+                {
+                  "word": "Restricted Boltzmann Machine",
+                  "children": []
+                },
+                {
+                  "word": "Unsupervised Learning",
+                  "children": []
+                },
+                {
+                  "word": "Layered Structure",
+                  "children": []
+                },
+                {
+                  "word": "Feature Extraction",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Data Mining",
+      "children": [
+        {
+          "word": "Pattern Recognition",
+          "children": [
+            {
+              "word": "Machine Learning",
+              "children": [
+                {
+                  "word": "Supervised Learning",
+                  "children": []
+                },
+                {
+                  "word": "Unsupervised Learning",
+                  "children": []
+                },
+                {
+                  "word": "Reinforcement Learning",
+                  "children": []
+                },
+                {
+                  "word": "Prediction Algorithms",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Feature Extraction",
+              "children": []
+            },
+            {
+              "word": "Classification",
+              "children": []
+            },
+            {
+              "word": "Neural Networks",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Association Rules",
+          "children": []
+        },
+        {
+          "word": "Clustering",
+          "children": []
+        },
+        {
+          "word": "Classification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Robotics",
+      "children": []
+    }
+  ]
+}

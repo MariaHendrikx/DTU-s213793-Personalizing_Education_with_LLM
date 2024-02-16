@@ -1,0 +1,139 @@
+{
+  "word": "Artificial Intelligence",
+  "children": [
+    {
+      "word": "Machine Learning",
+      "children": [
+        {
+          "word": "Data Science",
+          "children": [
+            {
+              "word": "Big Data",
+              "children": [
+                {
+                  "word": "Data Mining",
+                  "children": []
+                },
+                {
+                  "word": "Data Analytics",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Data Analysis",
+              "children": [
+                {
+                  "word": "Statistical Analysis",
+                  "children": []
+                },
+                {
+                  "word": "Data Visualization",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Algorithm",
+          "children": [
+            {
+              "word": "Computational Complexity",
+              "children": [
+                {
+                  "word": "Time Complexity",
+                  "children": []
+                },
+                {
+                  "word": "Space Complexity",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Data Structures",
+              "children": [
+                {
+                  "word": "Linked List",
+                  "children": []
+                },
+                {
+                  "word": "Binary Tree",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Neural Networks",
+      "children": [
+        {
+          "word": "Deep Learning",
+          "children": [
+            {
+              "word": "Convolutional Neural Networks",
+              "children": [
+                {
+                  "word": "Image Recognition",
+                  "children": []
+                },
+                {
+                  "word": "Computer Vision",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Recurrent Neural Networks",
+              "children": [
+                {
+                  "word": "Natural Language Processing",
+                  "children": []
+                },
+                {
+                  "word": "Sequence Generation",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Artificial Neurons",
+          "children": [
+            {
+              "word": "Activation Function",
+              "children": [
+                {
+                  "word": "Sigmoid Function",
+                  "children": []
+                },
+                {
+                  "word": "ReLU (Rectified Linear Unit)",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Weights and Biases",
+              "children": [
+                {
+                  "word": "Backpropagation",
+                  "children": []
+                },
+                {
+                  "word": "Gradient Descent",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

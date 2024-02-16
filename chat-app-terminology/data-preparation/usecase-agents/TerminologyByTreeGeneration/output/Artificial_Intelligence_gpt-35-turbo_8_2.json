@@ -1,0 +1,805 @@
+{
+  "word": "Artificial Intelligence",
+  "children": [
+    {
+      "word": "Machine Learning",
+      "children": [
+        {
+          "word": "Artificial Intelligence",
+          "children": [
+            {
+              "word": "Machine Learning",
+              "children": [
+                {
+                  "word": "Artificial Intelligence",
+                  "children": [
+                    {
+                      "word": "Machine Learning",
+                      "children": [
+                        {
+                          "word": "Artificial Intelligence",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Neural Networks",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Deep Learning",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Data Analysis",
+                          "children": [
+                            {
+                              "word": "Statistics",
+                              "children": []
+                            },
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "word": "Deep Learning",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "word": "Data Science",
+                  "children": [
+                    {
+                      "word": "Machine Learning",
+                      "children": [
+                        {
+                          "word": "Artificial Intelligence",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Neural Networks",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Deep Learning",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Data Science",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Big Data",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "word": "Big Data",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "word": "Neural Networks",
+              "children": [
+                {
+                  "word": "Artificial Intelligence",
+                  "children": [
+                    {
+                      "word": "Machine Learning",
+                      "children": [
+                        {
+                          "word": "Artificial Intelligence",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": []
+                            },
+                            {
+                              "word": "Neural Networks",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Deep Learning",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Data Science",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Big Data",
+                              "children": [
+                                {
+                                  "word": "Analytics",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "word": "Neural Networks",
+                      "children": [
+                        {
+                          "word": "Artificial Intelligence",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Neural Networks",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Deep Learning",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Deep Learning",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "word": "Deep Learning",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Data Science",
+          "children": [
+            {
+              "word": "Analytics",
+              "children": [
+                {
+                  "word": "Data",
+                  "children": [
+                    {
+                      "word": "Information",
+                      "children": [
+                        {
+                          "word": "data",
+                          "children": [
+                            {
+                              "word": "information",
+                              "children": [
+                                {
+                                  "word": "data",
+                                  "children": []
+                                },
+                                {
+                                  "word": "knowledge",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "analytics",
+                              "children": [
+                                {
+                                  "word": "data",
+                                  "children": []
+                                },
+                                {
+                                  "word": "metrics",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "knowledge",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "word": "Analytics",
+                      "children": [
+                        {
+                          "word": "data",
+                          "children": [
+                            {
+                              "word": "information",
+                              "children": [
+                                {
+                                  "word": "data",
+                                  "children": []
+                                },
+                                {
+                                  "word": "knowledge",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "analytics",
+                              "children": [
+                                {
+                                  "word": "data",
+                                  "children": []
+                                },
+                                {
+                                  "word": "statistics",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "metrics",
+                          "children": [
+                            {
+                              "word": "measurement",
+                              "children": [
+                                {
+                                  "word": "metric",
+                                  "children": []
+                                },
+                                {
+                                  "word": "unit",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "analytics",
+                              "children": [
+                                {
+                                  "word": "data",
+                                  "children": []
+                                },
+                                {
+                                  "word": "metrics",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "word": "Insights",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Machine Learning",
+              "children": [
+                {
+                  "word": "Artificial Intelligence",
+                  "children": [
+                    {
+                      "word": "Machine Learning",
+                      "children": []
+                    },
+                    {
+                      "word": "Neural Networks",
+                      "children": [
+                        {
+                          "word": "Artificial Intelligence",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Neural Networks",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Machine Learning",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Machine Learning",
+                          "children": [
+                            {
+                              "word": "Artificial Intelligence",
+                              "children": [
+                                {
+                                  "word": "Machine Learning",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Neural Networks",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Data Science",
+                              "children": [
+                                {
+                                  "word": "Machine Learning",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Big Data",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "word": "Data Science",
+                  "children": [
+                    {
+                      "word": "Machine Learning",
+                      "children": [
+                        {
+                          "word": "Artificial Intelligence",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Natural Language Processing",
+                              "children": [
+                                {
+                                  "word": "Machine Learning",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Text Analysis",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Data Science",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Big Data",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "word": "Big Data",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Neural Networks",
+      "children": [
+        {
+          "word": "Artificial Intelligence",
+          "children": [
+            {
+              "word": "Machine Learning",
+              "children": [
+                {
+                  "word": "Artificial Intelligence",
+                  "children": [
+                    {
+                      "word": "Machine Learning",
+                      "children": [
+                        {
+                          "word": "Artificial Intelligence",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Robotics",
+                              "children": [
+                                {
+                                  "word": "Automation",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Data Science",
+                          "children": [
+                            {
+                              "word": "Big Data",
+                              "children": []
+                            },
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Analysis",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "word": "Deep Learning",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "word": "Data Science",
+                  "children": [
+                    {
+                      "word": "Machine Learning",
+                      "children": [
+                        {
+                          "word": "Artificial Intelligence",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Natural Language Processing",
+                              "children": [
+                                {
+                                  "word": "Machine Learning",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Text Analysis",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Data Science",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Big Data",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "word": "Big Data",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "word": "Neural Networks",
+              "children": [
+                {
+                  "word": "Artificial Intelligence",
+                  "children": [
+                    {
+                      "word": "Machine Learning",
+                      "children": [
+                        {
+                          "word": "Artificial Intelligence",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Neural Networks",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Deep Learning",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Data Science",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Big Data",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "word": "Neural Networks",
+                      "children": [
+                        {
+                          "word": "Artificial Intelligence",
+                          "children": [
+                            {
+                              "word": "Machine Learning",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Data Science",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Neural Networks",
+                              "children": [
+                                {
+                                  "word": "Artificial Intelligence",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Deep Learning",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Deep Learning",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "word": "Machine Learning",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

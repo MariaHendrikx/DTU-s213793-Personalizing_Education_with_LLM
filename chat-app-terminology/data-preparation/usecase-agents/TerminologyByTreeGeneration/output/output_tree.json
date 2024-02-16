@@ -1,0 +1,466 @@
+{
+     "word": "Artificial Intelligence",
+     "children": [
+          {
+               "word": "Machine Learning",
+               "children": [
+                    {
+                         "word": "Supervised Learning",
+                         "children": [
+                              {
+                                   "word": "Regression",
+                                   "children": [
+                                        {
+                                             "word": "Linear Regression",
+                                             "children": [
+                                                  {
+                                                       "word": "Slope",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Intercept",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Least Squares",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Residuals",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Correlation Coefficient",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Logistic Regression",
+                                             "children": [
+                                                  {
+                                                       "word": "Odds Ratio",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Maximum Likelihood",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Binary Classification",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Sigmoid Function",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Logit",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Polynomial Regression",
+                                             "children": [
+                                                  {
+                                                       "word": "Overfitting",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Degree of Polynomial",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Non-linear Relationship",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Curve Fitting",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Multivariate Analysis",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Ridge Regression",
+                                             "children": [
+                                                  {
+                                                       "word": "L2 Regularization",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Bias-Variance Tradeoff",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Multicollinearity",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Alpha Parameter",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Shrinkage",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Lasso Regression",
+                                             "children": [
+                                                  {
+                                                       "word": "L1 Regularization",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Feature Selection",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Sparse Solutions",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Lambda Parameter",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Overfitting Prevention",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        }
+                                   ]
+                              },
+                              {
+                                   "word": "Classification",
+                                   "children": [
+                                        {
+                                             "word": "Decision Trees",
+                                             "children": [
+                                                  {
+                                                       "word": "Root Node",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Branches",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Leaf Nodes",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Entropy",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Information Gain",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Random Forest",
+                                             "children": [
+                                                  {
+                                                       "word": "Ensemble Learning",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Bootstrap Aggregating",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Out-of-Bag Error",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Feature Importance",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Decision Trees",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Naive Bayes",
+                                             "children": [
+                                                  {
+                                                       "word": "Bayes' Theorem",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Conditional Probability",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Independence Assumption",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Prior Probability",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Posterior Probability",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "K-Nearest Neighbors",
+                                             "children": [
+                                                  {
+                                                       "word": "Euclidean Distance",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Classification",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Regression",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Outlier Detection",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Similarity Measure",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Support Vector Machines",
+                                             "children": [
+                                                  {
+                                                       "word": "Margin",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Hyperplane",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Kernel Trick",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Classification",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Support Vectors",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        }
+                                   ]
+                              },
+                              {
+                                   "word": "Support Vector Machines",
+                                   "children": [
+                                        {
+                                             "word": "Margin",
+                                             "children": [
+                                                  {
+                                                       "word": "Profit Margin",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Gross Margin",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Operating Margin",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Net Margin",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Contribution Margin",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Hyperplane",
+                                             "children": [
+                                                  {
+                                                       "word": "Dimensionality",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Linear Separability",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Support Vector Machine",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Classification",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Vector Space",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Kernel Trick",
+                                             "children": [
+                                                  {
+                                                       "word": "Non-linear Classification",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Feature Space",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "SVM",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Radial Basis Function",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Polynomial Kernel",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Classification",
+                                             "children": [
+                                                  {
+                                                       "word": "Decision Trees",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Random Forest",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Naive Bayes",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "K-Nearest Neighbors",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Support Vector Machines",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        },
+                                        {
+                                             "word": "Support Vectors",
+                                             "children": [
+                                                  {
+                                                       "word": "SVM",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Margin",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Hyperplane",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Classification",
+                                                       "children": []
+                                                  },
+                                                  {
+                                                       "word": "Linear Separability",
+                                                       "children": []
+                                                  }
+                                             ]
+                                        }
+                                   ]
+                              },
+                              {
+                                   "word": "Decision Trees",
+                                   "children": []
+                              },
+                              {
+                                   "word": "Labeling",
+                                   "children": [
+                                        {
+                                             "word": "Annotation",
+                                             "children": []
+                                        },
+                                        {
+                                             "word": "Data Classification",
+                                             "children": []
+                                        },
+                                        {
+                                             "word": "Supervised Learning",
+                                             "children": []
+                                        },
+                                        {
+                                             "word": "Ground Truth",
+                                             "children": []
+                                        },
+                                        {
+                                             "word": "Image Labeling",
+                                             "children": []
+                                        }
+                                   ]
+                              }
+                         ]
+                    },
+                    {
+                         "word": "Unsupervised Learning",
+                         "children": []
+                    },
+                    {
+                         "word": "Reinforcement Learning",
+                         "children": []
+                    },
+                    {
+                         "word": "Deep Learning",
+                         "children": []
+                    },
+                    {
+                         "word": "Feature Extraction",
+                         "children": []
+                    }
+               ]
+          },
+          {
+               "word": "Neural Networks",
+               "children": []
+          },
+          {
+               "word": "Robotics",
+               "children": []
+          },
+          {
+               "word": "Data Mining",
+               "children": []
+          },
+          {
+               "word": "Natural Language Processing",
+               "children": []
+          }
+     ]
+}

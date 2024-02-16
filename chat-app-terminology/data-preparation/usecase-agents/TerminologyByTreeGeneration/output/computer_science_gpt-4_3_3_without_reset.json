@@ -1,0 +1,173 @@
+{
+  "word": "computer science",
+  "children": [
+    {
+      "word": "Algorithms",
+      "children": [
+        {
+          "word": "Sorting",
+          "children": [
+            {
+              "word": "Bubble Sort",
+              "children": []
+            },
+            {
+              "word": "Quick Sort",
+              "children": []
+            },
+            {
+              "word": "Merge Sort",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Searching",
+          "children": [
+            {
+              "word": "Binary Search",
+              "children": []
+            },
+            {
+              "word": "Linear Search",
+              "children": []
+            },
+            {
+              "word": "Depth-First Search",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Complexity Analysis",
+          "children": [
+            {
+              "word": "Big O Notation",
+              "children": []
+            },
+            {
+              "word": "Time Complexity",
+              "children": []
+            },
+            {
+              "word": "Space Complexity",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Programming",
+      "children": [
+        {
+          "word": "Coding",
+          "children": [
+            {
+              "word": "Python",
+              "children": []
+            },
+            {
+              "word": "JavaScript",
+              "children": []
+            },
+            {
+              "word": "Java",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Debugging",
+          "children": [
+            {
+              "word": "Breakpoints",
+              "children": []
+            },
+            {
+              "word": "Log Messages",
+              "children": []
+            },
+            {
+              "word": "Error Handling",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Software Development",
+          "children": [
+            {
+              "word": "Agile Methodology",
+              "children": []
+            },
+            {
+              "word": "Version Control",
+              "children": []
+            },
+            {
+              "word": "Testing",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Data Structures",
+      "children": [
+        {
+          "word": "Arrays",
+          "children": [
+            {
+              "word": "Indexing",
+              "children": []
+            },
+            {
+              "word": "Multidimensional Arrays",
+              "children": []
+            },
+            {
+              "word": "Array Sorting",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Linked Lists",
+          "children": [
+            {
+              "word": "Node",
+              "children": []
+            },
+            {
+              "word": "Singly Linked List",
+              "children": []
+            },
+            {
+              "word": "Doubly Linked List",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Binary Trees",
+          "children": [
+            {
+              "word": "Node",
+              "children": []
+            },
+            {
+              "word": "Binary Search Tree",
+              "children": []
+            },
+            {
+              "word": "Balanced Tree",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

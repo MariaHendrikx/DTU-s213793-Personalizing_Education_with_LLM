@@ -1,0 +1,46 @@
+[
+    { "role": "user", "content": "Demonstrate knowledge of machine learning terminology such as likelihood function, maximum likelihood, Bayesian inference, feed-forward, convolutional and Transformer neural networks, and error back propagation.  " },
+    {
+      "role": "system",
+      "content": "DONT UNDERSTAND: likelihood function, maximum likelihood, Bayesian inference, feed-forward, convolutional, Transformer neural networks, error back propagation."
+    },
+    {
+      "role": "user",
+      "content": """1. Likelihood Function: It's a function that shows how 'likely' our data samples are, given certain parameters.
+      2. Maximum Likelihood: It's a method to estimate the parameters of a model that maximizes the likelihood function.
+      3. Bayesian Inference: It's a statistical method that updates the probability of a hypothesis as more evidence/ data becomes available.
+      4. Feed-forward: It's a type of neural network architecture where information moves in one direction-- from the input layer, through hidden layers, to the output layer.
+      5. Convolutional: It's a type of neural network designed for image processing, where the neurons in the layers are connected in such a way that they resemble the visual cortex.
+      6. Transformer Neural Networks: These are types of models used in natural language processing which utilize self-attention mechanisms and can handle long-range dependencies in data.
+      7. Error Back Propagation: It's a method used in neural networks to adjust the weights by calculating the gradient of the loss function."""
+    },
+    {
+      "role": "system",
+      "content": "DONT UNDERSTAND: likelihood function, maximum likelihood, Bayesian inference, feed-forward, convolutional, Transformer neural networks, error back propagation, parameters, method, estimate, hypothesis, evidence, architecture, input layer, hidden layers, output layer, image processing, neurons, visual cortex, models, natural language processing, self-attention mechanisms, long-range dependencies, weights, gradient, loss function."
+    },
+    {
+      "role": "user",
+      "content": """1. Parameters: Variables that the system can adjust to improve prediction.
+      2. Method: A structured approach or procedure for solving a problem.
+      3. Estimate: To find an approximate value or calculation of something.
+      4. Hypothesis: An assumption made before carrying out an investigation.
+      5. Evidence: Information used to support a conclusion or result.
+      6. Architecture: In computing, it refers to the design or structure of a system.
+      7. Input Layer: The initial layer in a network through which data is fed into the system.
+      8. Hidden Layers: Layers between input and output in a neural network which process input from preceding layers.
+      9. Output Layer: The final layer in a neural network that provides the result.
+      10. Image Processing: Analysis and manipulation of a digitized image, especially to improve its quality.
+      11. Neurons: Fundamental units of the brain and nervous system, the chief role of which is to process and transmit information.
+      12. Visual Cortex: Part of the brain responsible for processing visual information.
+      13. Models: In computation, models refer to mathematical representations of a system.
+      14. Natural Language Processing: Area of AI concerned with the interactions between computers and human language.
+      15. Self-attention mechanisms: A mechanism in a neural network that allows it to focus on different parts of the input separately.
+      16. Long-range dependencies: Situations where a current output depends on past inputs or observations.
+      17. Weights: Parameters in a neural network that transform input data within the network's layers.
+      18. Gradient: In the context of machine learning, it is the direction and rate of fastest increase of a function.
+      19. Loss function: It measures the disparity between the actual and predicted output in machine learning."""
+    }
+  ]
+  
+  
+  

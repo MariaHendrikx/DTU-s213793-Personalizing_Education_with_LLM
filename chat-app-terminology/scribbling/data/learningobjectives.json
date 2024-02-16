@@ -1,0 +1,30 @@
+[
+    {
+        "objective": "Basic Communication",
+        "description": "Understanding and using familiar everyday expressions and very basic phrases aimed at satisfying needs of a concrete type. This includes greetings, introductions, and asking for basic personal information."
+    },
+    {
+        "objective": "Interaction Skills",
+        "description": "Ability to participate in a simple conversation on familiar topics. The learner should be able to interact simply if the other person talks slowly and clearly and is ready to help."
+    },
+    {
+        "objective": "Basic Vocabulary and Grammar",
+        "description": "Understanding and using familiar words and simple phrases for concrete purposes. Ability to form simple sentences about personal details, local geography, employment, etc."
+    },
+    {
+        "objective": "Listening Comprehension",
+        "description": "Ability to understand clear, slow speech related to basic needs and very familiar topics."
+    },
+    {
+        "objective": "Reading Comprehension",
+        "description": "Ability to understand familiar names, words, and very simple sentences, for example on notices and posters or in catalogs."
+    },
+    {
+        "objective": "Speaking and Pronunciation",
+        "description": "Learning to articulate words and phrases clearly, though the accent might be noticeable. Ability to describe in simple terms aspects of their background, immediate environment, and matters in areas of immediate need."
+    },
+    {
+        "objective": "Writing Skills",
+        "description": "Ability to write a short, simple postcard, fill in forms with personal details, or write simple, isolated phrases and sentences."
+    }
+]

@@ -1,0 +1,8 @@
+[
+  { "role": "system", "content": "*instruction message for system*" },
+  { "role": "user", "content": "*example text*" },
+  {"role": "system","content": "DONT UNDERSTAND: term1, term2, ..."},
+  {"role": "user","content": "1. term1: definition1; 2. term2: definition2; etc."},
+  {"role": "system","content": "DONT UNDERSTAND: term1, term2, ..."},
+  {"role": "user","content": "1. term1: definition1; 2. term2: definition2; etc."}
+]

@@ -1,0 +1,160 @@
+{
+  "word": "python programming language",
+  "children": [
+    {
+      "word": "Syntax",
+      "children": [
+        {
+          "word": "Grammar",
+          "children": [
+            {
+              "word": "Linguistics",
+              "children": []
+            },
+            {
+              "word": "Syntax",
+              "children": []
+            },
+            {
+              "word": "Punctuation",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Code",
+          "children": [
+            {
+              "word": "Programming",
+              "children": []
+            },
+            {
+              "word": "Encryption",
+              "children": []
+            },
+            {
+              "word": "Algorithm",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Parsing",
+          "children": [
+            {
+              "word": "Syntax",
+              "children": []
+            },
+            {
+              "word": "Compiler",
+              "children": []
+            },
+            {
+              "word": "Tokenizer",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Script",
+      "children": [
+        {
+          "word": "Playwriting",
+          "children": [
+            {
+              "word": "Drama",
+              "children": []
+            },
+            {
+              "word": "Theater",
+              "children": []
+            },
+            {
+              "word": "Script",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Screenplay",
+          "children": [
+            {
+              "word": "Dialogue",
+              "children": []
+            },
+            {
+              "word": "Scenes",
+              "children": []
+            },
+            {
+              "word": "Characters",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Dialogue",
+          "children": [
+            {
+              "word": "Conversation",
+              "children": []
+            },
+            {
+              "word": "Speech",
+              "children": []
+            },
+            {
+              "word": "Monologue",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Interpreter",
+      "children": [
+        {
+          "word": "Translation",
+          "children": [
+            {
+              "word": "Language",
+              "children": []
+            },
+            {
+              "word": "Interpreter",
+              "children": []
+            },
+            {
+              "word": "Bilingual",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Language",
+          "children": [
+            {
+              "word": "Communication",
+              "children": []
+            },
+            {
+              "word": "Vocabulary",
+              "children": []
+            },
+            {
+              "word": "Grammar",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Code Execution",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

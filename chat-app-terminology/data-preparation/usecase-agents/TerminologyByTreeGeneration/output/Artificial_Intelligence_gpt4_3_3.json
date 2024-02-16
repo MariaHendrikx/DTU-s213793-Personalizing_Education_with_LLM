@@ -1,0 +1,173 @@
+{
+  "word": "Artificial Intelligence",
+  "children": [
+    {
+      "word": "Machine Learning",
+      "children": [
+        {
+          "word": "Supervised Learning",
+          "children": [
+            {
+              "word": "Regression",
+              "children": []
+            },
+            {
+              "word": "Classification",
+              "children": []
+            },
+            {
+              "word": "Labelled Data",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Unsupervised Learning",
+          "children": [
+            {
+              "word": "Clustering",
+              "children": []
+            },
+            {
+              "word": "Dimensionality Reduction",
+              "children": []
+            },
+            {
+              "word": "Association Rules",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Reinforcement Learning",
+          "children": [
+            {
+              "word": "Policy Learning",
+              "children": []
+            },
+            {
+              "word": "Q-Learning",
+              "children": []
+            },
+            {
+              "word": "Deep Q-Networks",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Neural Networks",
+      "children": [
+        {
+          "word": "Perceptron",
+          "children": [
+            {
+              "word": "Weights",
+              "children": []
+            },
+            {
+              "word": "Bias",
+              "children": []
+            },
+            {
+              "word": "Activation Function",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Backpropagation",
+          "children": [
+            {
+              "word": "Gradient Descent",
+              "children": []
+            },
+            {
+              "word": "Loss Function",
+              "children": []
+            },
+            {
+              "word": "Weights Update",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Deep Learning",
+          "children": [
+            {
+              "word": "Convolutional Neural Networks",
+              "children": []
+            },
+            {
+              "word": "Recurrent Neural Networks",
+              "children": []
+            },
+            {
+              "word": "Autoencoders",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Natural Language Processing",
+      "children": [
+        {
+          "word": "Sentiment Analysis",
+          "children": [
+            {
+              "word": "Positive Sentiment",
+              "children": []
+            },
+            {
+              "word": "Negative Sentiment",
+              "children": []
+            },
+            {
+              "word": "Neutral Sentiment",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Tokenization",
+          "children": [
+            {
+              "word": "Words",
+              "children": []
+            },
+            {
+              "word": "Sentences",
+              "children": []
+            },
+            {
+              "word": "Phrases",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Speech Recognition",
+          "children": [
+            {
+              "word": "Voice Command",
+              "children": []
+            },
+            {
+              "word": "Transcription",
+              "children": []
+            },
+            {
+              "word": "Acoustic Model",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

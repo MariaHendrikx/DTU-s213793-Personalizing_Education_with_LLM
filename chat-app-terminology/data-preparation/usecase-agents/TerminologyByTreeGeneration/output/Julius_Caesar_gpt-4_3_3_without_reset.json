@@ -1,0 +1,173 @@
+{
+  "word": "Julius Caesar",
+  "children": [
+    {
+      "word": "Roman Empire",
+      "children": [
+        {
+          "word": "Gladiator",
+          "children": [
+            {
+              "word": "Arena",
+              "children": []
+            },
+            {
+              "word": "Combat",
+              "children": []
+            },
+            {
+              "word": "Ancient Rome",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Colosseum",
+          "children": [
+            {
+              "word": "Amphitheater",
+              "children": []
+            },
+            {
+              "word": "Rome",
+              "children": []
+            },
+            {
+              "word": "Gladiatorial Games",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Augustus Caesar",
+          "children": [
+            {
+              "word": "First Emperor",
+              "children": []
+            },
+            {
+              "word": "Pax Romana",
+              "children": []
+            },
+            {
+              "word": "Julio-Claudian Dynasty",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Assassination",
+      "children": [
+        {
+          "word": "Conspiracy",
+          "children": [
+            {
+              "word": "Secret Plot",
+              "children": []
+            },
+            {
+              "word": "Cover-up",
+              "children": []
+            },
+            {
+              "word": "Conspirator",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Murder",
+          "children": [
+            {
+              "word": "Homicide",
+              "children": []
+            },
+            {
+              "word": "Crime Scene",
+              "children": []
+            },
+            {
+              "word": "Investigation",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Political Unrest",
+          "children": [
+            {
+              "word": "Protest",
+              "children": []
+            },
+            {
+              "word": "Revolution",
+              "children": []
+            },
+            {
+              "word": "Civil Disobedience",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Shakespeare",
+      "children": [
+        {
+          "word": "Sonnet",
+          "children": [
+            {
+              "word": "Poem",
+              "children": []
+            },
+            {
+              "word": "Iambic Pentameter",
+              "children": []
+            },
+            {
+              "word": "Quatrain",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Playwright",
+          "children": [
+            {
+              "word": "Drama",
+              "children": []
+            },
+            {
+              "word": "Theatre",
+              "children": []
+            },
+            {
+              "word": "Script",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Romeo and Juliet",
+          "children": [
+            {
+              "word": "Tragedy",
+              "children": []
+            },
+            {
+              "word": "Star-Crossed Lovers",
+              "children": []
+            },
+            {
+              "word": "Verona",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "word": "Artificial Intelligence",
+  "children": [
+    {
+      "word": "Machine Learning",
+      "children": [
+        {
+          "word": "Data Science",
+          "children": []
+        },
+        {
+          "word": "Supervised Learning",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Deep Learning",
+      "children": [
+        {
+          "word": "Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Computer Vision",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

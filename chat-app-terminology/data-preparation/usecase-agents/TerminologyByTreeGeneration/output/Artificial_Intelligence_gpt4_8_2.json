@@ -1,0 +1,139 @@
+{
+  "word": "Artificial Intelligence",
+  "children": [
+    {
+      "word": "Machine Learning",
+      "children": [
+        {
+          "word": "Supervised Learning",
+          "children": [
+            {
+              "word": "Regression",
+              "children": [
+                {
+                  "word": "Linear Regression",
+                  "children": [
+                    {
+                      "word": "Slope",
+                      "children": [
+                        {
+                          "word": "Gradient",
+                          "children": [
+                            {
+                              "word": "Derivative",
+                              "children": [
+                                {
+                                  "word": "Calculus",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Integral",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Rate of Change",
+                              "children": [
+                                {
+                                  "word": "Velocity",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Acceleration",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "word": "Incline",
+                          "children": [
+                            {
+                              "word": "Hill",
+                              "children": [
+                                {
+                                  "word": "Summit",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Valley",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Ramp",
+                              "children": [
+                                {
+                                  "word": "Incline",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Wheelchair Access",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "word": "Intercept",
+                      "children": [
+                        {
+                          "word": "Y-Intercept",
+                          "children": [
+                            {
+                              "word": "Origin",
+                              "children": [
+                                {
+                                  "word": "Coordinate System",
+                                  "children": []
+                                },
+                                {
+                                  "word": "Zero Point",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "word": "Vertical Axis",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "word": "X-Intercept",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "word": "Logistic Regression",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "word": "Classification",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Unsupervised Learning",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Neural Networks",
+      "children": []
+    }
+  ]
+}

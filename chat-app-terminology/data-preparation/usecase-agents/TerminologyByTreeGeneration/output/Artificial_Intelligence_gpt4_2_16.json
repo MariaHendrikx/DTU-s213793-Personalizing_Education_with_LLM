@@ -1,0 +1,1109 @@
+{
+  "word": "Artificial Intelligence",
+  "children": [
+    {
+      "word": "Machine Learning",
+      "children": [
+        {
+          "word": "Supervised Learning",
+          "children": []
+        },
+        {
+          "word": "Unsupervised Learning",
+          "children": []
+        },
+        {
+          "word": "Reinforcement Learning",
+          "children": []
+        },
+        {
+          "word": "Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Regression",
+          "children": []
+        },
+        {
+          "word": "Classification",
+          "children": []
+        },
+        {
+          "word": "Clustering",
+          "children": []
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        },
+        {
+          "word": "Decision Trees",
+          "children": []
+        },
+        {
+          "word": "Random Forest",
+          "children": []
+        },
+        {
+          "word": "Support Vector Machines",
+          "children": []
+        },
+        {
+          "word": "Gradient Boosting",
+          "children": []
+        },
+        {
+          "word": "Data Mining",
+          "children": []
+        },
+        {
+          "word": "Feature Selection",
+          "children": []
+        },
+        {
+          "word": "Training Data",
+          "children": []
+        },
+        {
+          "word": "Prediction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Deep Learning",
+      "children": [
+        {
+          "word": "Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Convolutional Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Recurrent Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Backpropagation",
+          "children": []
+        },
+        {
+          "word": "TensorFlow",
+          "children": []
+        },
+        {
+          "word": "Keras",
+          "children": []
+        },
+        {
+          "word": "PyTorch",
+          "children": []
+        },
+        {
+          "word": "Autoencoders",
+          "children": []
+        },
+        {
+          "word": "Generative Adversarial Networks",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Activation Function",
+          "children": []
+        },
+        {
+          "word": "Loss Function",
+          "children": []
+        },
+        {
+          "word": "Data Augmentation",
+          "children": []
+        },
+        {
+          "word": "Transfer Learning",
+          "children": []
+        },
+        {
+          "word": "Overfitting",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Neural Networks",
+      "children": [
+        {
+          "word": "Perceptron",
+          "children": []
+        },
+        {
+          "word": "Backpropagation",
+          "children": []
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        },
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Convolutional Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Recurrent Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Activation Function",
+          "children": []
+        },
+        {
+          "word": "Hidden Layers",
+          "children": []
+        },
+        {
+          "word": "Weights",
+          "children": []
+        },
+        {
+          "word": "Bias",
+          "children": []
+        },
+        {
+          "word": "Learning Rate",
+          "children": []
+        },
+        {
+          "word": "Gradient Descent",
+          "children": []
+        },
+        {
+          "word": "Feedforward",
+          "children": []
+        },
+        {
+          "word": "Loss Function",
+          "children": []
+        },
+        {
+          "word": "Overfitting",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Algorithm",
+      "children": [
+        {
+          "word": "Data Structure",
+          "children": []
+        },
+        {
+          "word": "Sorting",
+          "children": []
+        },
+        {
+          "word": "Searching",
+          "children": []
+        },
+        {
+          "word": "Recursive",
+          "children": []
+        },
+        {
+          "word": "Iteration",
+          "children": []
+        },
+        {
+          "word": "Complexity Analysis",
+          "children": []
+        },
+        {
+          "word": "Big O Notation",
+          "children": []
+        },
+        {
+          "word": "Divide and Conquer",
+          "children": []
+        },
+        {
+          "word": "Dynamic Programming",
+          "children": []
+        },
+        {
+          "word": "Greedy Algorithm",
+          "children": []
+        },
+        {
+          "word": "Brute Force",
+          "children": []
+        },
+        {
+          "word": "Backtracking",
+          "children": []
+        },
+        {
+          "word": "Heuristic",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Optimization",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Data Mining",
+      "children": [
+        {
+          "word": "Big Data",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Data Analysis",
+          "children": []
+        },
+        {
+          "word": "Predictive Analytics",
+          "children": []
+        },
+        {
+          "word": "Data Warehousing",
+          "children": []
+        },
+        {
+          "word": "Clustering",
+          "children": []
+        },
+        {
+          "word": "Classification",
+          "children": []
+        },
+        {
+          "word": "Regression",
+          "children": []
+        },
+        {
+          "word": "Association Rules",
+          "children": []
+        },
+        {
+          "word": "Decision Trees",
+          "children": []
+        },
+        {
+          "word": "Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Pattern Recognition",
+          "children": []
+        },
+        {
+          "word": "Text Mining",
+          "children": []
+        },
+        {
+          "word": "Web Mining",
+          "children": []
+        },
+        {
+          "word": "Database",
+          "children": []
+        },
+        {
+          "word": "Data Visualization",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Robotics",
+      "children": [
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Automation",
+          "children": []
+        },
+        {
+          "word": "Actuator",
+          "children": []
+        },
+        {
+          "word": "Sensors",
+          "children": []
+        },
+        {
+          "word": "Programming",
+          "children": []
+        },
+        {
+          "word": "Mechatronics",
+          "children": []
+        },
+        {
+          "word": "Robot Manipulator",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Computer Vision",
+          "children": []
+        },
+        {
+          "word": "Drones",
+          "children": []
+        },
+        {
+          "word": "Servo Motor",
+          "children": []
+        },
+        {
+          "word": "Microcontroller",
+          "children": []
+        },
+        {
+          "word": "Humanoid",
+          "children": []
+        },
+        {
+          "word": "Industrial Robots",
+          "children": []
+        },
+        {
+          "word": "Autonomous Vehicles",
+          "children": []
+        },
+        {
+          "word": "Robot Operating System",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Natural Language Processing",
+      "children": [
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Speech Recognition",
+          "children": []
+        },
+        {
+          "word": "Text Mining",
+          "children": []
+        },
+        {
+          "word": "Sentiment Analysis",
+          "children": []
+        },
+        {
+          "word": "Chatbots",
+          "children": []
+        },
+        {
+          "word": "Information Extraction",
+          "children": []
+        },
+        {
+          "word": "Tokenization",
+          "children": []
+        },
+        {
+          "word": "Stemming",
+          "children": []
+        },
+        {
+          "word": "Lemmatization",
+          "children": []
+        },
+        {
+          "word": "Named Entity Recognition",
+          "children": []
+        },
+        {
+          "word": "Part of Speech Tagging",
+          "children": []
+        },
+        {
+          "word": "Syntax Analysis",
+          "children": []
+        },
+        {
+          "word": "Semantic Analysis",
+          "children": []
+        },
+        {
+          "word": "Translation",
+          "children": []
+        },
+        {
+          "word": "Corpus Linguistics",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Computer Vision",
+      "children": [
+        {
+          "word": "Image Processing",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Object Detection",
+          "children": []
+        },
+        {
+          "word": "Image Recognition",
+          "children": []
+        },
+        {
+          "word": "Facial Recognition",
+          "children": []
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        },
+        {
+          "word": "Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Optical Character Recognition",
+          "children": []
+        },
+        {
+          "word": "Edge Detection",
+          "children": []
+        },
+        {
+          "word": "Segmentation",
+          "children": []
+        },
+        {
+          "word": "Feature Extraction",
+          "children": []
+        },
+        {
+          "word": "Convolutional Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Pattern Recognition",
+          "children": []
+        },
+        {
+          "word": "Augmented Reality",
+          "children": []
+        },
+        {
+          "word": "3D Reconstruction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Reinforcement Learning",
+      "children": [
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        },
+        {
+          "word": "Q-Learning",
+          "children": []
+        },
+        {
+          "word": "Policy Gradient",
+          "children": []
+        },
+        {
+          "word": "Markov Decision Process",
+          "children": []
+        },
+        {
+          "word": "State",
+          "children": []
+        },
+        {
+          "word": "Reward",
+          "children": []
+        },
+        {
+          "word": "Action",
+          "children": []
+        },
+        {
+          "word": "Agent",
+          "children": []
+        },
+        {
+          "word": "Environment",
+          "children": []
+        },
+        {
+          "word": "Value Function",
+          "children": []
+        },
+        {
+          "word": "Exploration vs Exploitation",
+          "children": []
+        },
+        {
+          "word": "Monte Carlo Methods",
+          "children": []
+        },
+        {
+          "word": "Temporal Difference Learning",
+          "children": []
+        },
+        {
+          "word": "Dynamic Programming",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Predictive Analytics",
+      "children": [
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Data Mining",
+          "children": []
+        },
+        {
+          "word": "Regression Analysis",
+          "children": []
+        },
+        {
+          "word": "Forecasting",
+          "children": []
+        },
+        {
+          "word": "Classification",
+          "children": []
+        },
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Decision Trees",
+          "children": []
+        },
+        {
+          "word": "Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Time Series Analysis",
+          "children": []
+        },
+        {
+          "word": "Big Data",
+          "children": []
+        },
+        {
+          "word": "Data Modeling",
+          "children": []
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        },
+        {
+          "word": "Supervised Learning",
+          "children": []
+        },
+        {
+          "word": "Unsupervised Learning",
+          "children": []
+        },
+        {
+          "word": "Statistical Analysis",
+          "children": []
+        },
+        {
+          "word": "Business Intelligence",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Chatbots",
+      "children": [
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Natural Language Processing",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Conversational AI",
+          "children": []
+        },
+        {
+          "word": "Speech Recognition",
+          "children": []
+        },
+        {
+          "word": "Text-to-Speech",
+          "children": []
+        },
+        {
+          "word": "User Interface",
+          "children": []
+        },
+        {
+          "word": "Dialog Systems",
+          "children": []
+        },
+        {
+          "word": "Customer Service",
+          "children": []
+        },
+        {
+          "word": "Chatbot Platform",
+          "children": []
+        },
+        {
+          "word": "Messaging Apps",
+          "children": []
+        },
+        {
+          "word": "Virtual Assistant",
+          "children": []
+        },
+        {
+          "word": "Customer Engagement",
+          "children": []
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        },
+        {
+          "word": "Intent Recognition",
+          "children": []
+        },
+        {
+          "word": "Sentiment Analysis",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Speech Recognition",
+      "children": [
+        {
+          "word": "Natural Language Processing",
+          "children": []
+        },
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        },
+        {
+          "word": "Voice Recognition",
+          "children": []
+        },
+        {
+          "word": "Acoustic Modeling",
+          "children": []
+        },
+        {
+          "word": "Language Modeling",
+          "children": []
+        },
+        {
+          "word": "Speech Synthesis",
+          "children": []
+        },
+        {
+          "word": "Text-to-Speech",
+          "children": []
+        },
+        {
+          "word": "Speech-to-Text",
+          "children": []
+        },
+        {
+          "word": "Voice Command",
+          "children": []
+        },
+        {
+          "word": "Voice Assistant",
+          "children": []
+        },
+        {
+          "word": "Transcription",
+          "children": []
+        },
+        {
+          "word": "Phonetics",
+          "children": []
+        },
+        {
+          "word": "Signal Processing",
+          "children": []
+        },
+        {
+          "word": "Noise Cancellation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Cognitive Computing",
+      "children": [
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Natural Language Processing",
+          "children": []
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        },
+        {
+          "word": "Data Mining",
+          "children": []
+        },
+        {
+          "word": "Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Robotics",
+          "children": []
+        },
+        {
+          "word": "Knowledge Representation",
+          "children": []
+        },
+        {
+          "word": "Reasoning",
+          "children": []
+        },
+        {
+          "word": "Decision Making",
+          "children": []
+        },
+        {
+          "word": "Cognitive Science",
+          "children": []
+        },
+        {
+          "word": "Semantic Analysis",
+          "children": []
+        },
+        {
+          "word": "Human-Computer Interaction",
+          "children": []
+        },
+        {
+          "word": "Information Retrieval",
+          "children": []
+        },
+        {
+          "word": "Pattern Recognition",
+          "children": []
+        },
+        {
+          "word": "Computer Vision",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Autonomous Vehicles",
+      "children": [
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Robotics",
+          "children": []
+        },
+        {
+          "word": "Computer Vision",
+          "children": []
+        },
+        {
+          "word": "Sensor Fusion",
+          "children": []
+        },
+        {
+          "word": "Lidar",
+          "children": []
+        },
+        {
+          "word": "Radar",
+          "children": []
+        },
+        {
+          "word": "GPS",
+          "children": []
+        },
+        {
+          "word": "Deep Learning",
+          "children": []
+        },
+        {
+          "word": "Path Planning",
+          "children": []
+        },
+        {
+          "word": "Control Systems",
+          "children": []
+        },
+        {
+          "word": "Vehicle Dynamics",
+          "children": []
+        },
+        {
+          "word": "Telematics",
+          "children": []
+        },
+        {
+          "word": "Driverless Car",
+          "children": []
+        },
+        {
+          "word": "Traffic Navigation",
+          "children": []
+        },
+        {
+          "word": "Safety Systems",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Expert Systems",
+      "children": [
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Knowledge Base",
+          "children": []
+        },
+        {
+          "word": "Inference Engine",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Rule-Based Systems",
+          "children": []
+        },
+        {
+          "word": "Decision Making",
+          "children": []
+        },
+        {
+          "word": "Natural Language Processing",
+          "children": []
+        },
+        {
+          "word": "Data Mining",
+          "children": []
+        },
+        {
+          "word": "Neural Networks",
+          "children": []
+        },
+        {
+          "word": "Fuzzy Logic",
+          "children": []
+        },
+        {
+          "word": "Diagnostic System",
+          "children": []
+        },
+        {
+          "word": "User Interface",
+          "children": []
+        },
+        {
+          "word": "Heuristic",
+          "children": []
+        },
+        {
+          "word": "Pattern Recognition",
+          "children": []
+        },
+        {
+          "word": "Cognitive Computing",
+          "children": []
+        },
+        {
+          "word": "Knowledge Representation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "word": "Big Data",
+      "children": [
+        {
+          "word": "Data Mining",
+          "children": []
+        },
+        {
+          "word": "Data Analytics",
+          "children": []
+        },
+        {
+          "word": "Machine Learning",
+          "children": []
+        },
+        {
+          "word": "Artificial Intelligence",
+          "children": []
+        },
+        {
+          "word": "Data Visualization",
+          "children": []
+        },
+        {
+          "word": "Predictive Analytics",
+          "children": []
+        },
+        {
+          "word": "Hadoop",
+          "children": []
+        },
+        {
+          "word": "Spark",
+          "children": []
+        },
+        {
+          "word": "Cloud Computing",
+          "children": []
+        },
+        {
+          "word": "Data Warehouse",
+          "children": []
+        },
+        {
+          "word": "Structured Data",
+          "children": []
+        },
+        {
+          "word": "Unstructured Data",
+          "children": []
+        },
+        {
+          "word": "Data Science",
+          "children": []
+        },
+        {
+          "word": "Data Processing",
+          "children": []
+        },
+        {
+          "word": "Internet of Things",
+          "children": []
+        },
+        {
+          "word": "Database",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

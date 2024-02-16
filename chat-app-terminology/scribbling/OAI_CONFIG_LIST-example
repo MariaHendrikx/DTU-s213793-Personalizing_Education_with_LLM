@@ -1,0 +1,16 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "YOUR API KEY",
+        "base_url": "YOUR BASE URL",
+        "api_type": "azure",
+        "api_version": "API VERSION"
+    },
+    {
+        "model": "gpt-4-32k",
+        "api_key": "YOUR API KEY",
+        "base_url": "YOUR BASE URL",
+        "api_type": "azure",
+        "api_version": "API VERSION"
+    },
+]

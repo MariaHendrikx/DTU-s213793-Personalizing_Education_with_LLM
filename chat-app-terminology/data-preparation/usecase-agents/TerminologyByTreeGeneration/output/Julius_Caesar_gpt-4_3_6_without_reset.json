@@ -1,0 +1,1079 @@
+{
+  "word": "Julius Caesar",
+  "children": [
+    {
+      "word": "Rome",
+      "children": [
+        {
+          "word": "Colosseum",
+          "children": [
+            {
+              "word": "Gladiator",
+              "children": []
+            },
+            {
+              "word": "Arena",
+              "children": []
+            },
+            {
+              "word": "Rome",
+              "children": []
+            },
+            {
+              "word": "Amphitheatre",
+              "children": []
+            },
+            {
+              "word": "Ancient Rome",
+              "children": []
+            },
+            {
+              "word": "Spectacle",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Italy",
+          "children": [
+            {
+              "word": "Pizza",
+              "children": []
+            },
+            {
+              "word": "Pasta",
+              "children": []
+            },
+            {
+              "word": "Rome",
+              "children": []
+            },
+            {
+              "word": "Venice",
+              "children": []
+            },
+            {
+              "word": "Florence",
+              "children": []
+            },
+            {
+              "word": "Milan",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Gladiators",
+          "children": [
+            {
+              "word": "Arena",
+              "children": []
+            },
+            {
+              "word": "Rome",
+              "children": []
+            },
+            {
+              "word": "Combat",
+              "children": []
+            },
+            {
+              "word": "Colosseum",
+              "children": []
+            },
+            {
+              "word": "Spartacus",
+              "children": []
+            },
+            {
+              "word": "Ancient Rome",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Roman Empire",
+          "children": [
+            {
+              "word": "Caesar",
+              "children": []
+            },
+            {
+              "word": "Gladiators",
+              "children": []
+            },
+            {
+              "word": "Colosseum",
+              "children": []
+            },
+            {
+              "word": "Constantine",
+              "children": []
+            },
+            {
+              "word": "Latin",
+              "children": []
+            },
+            {
+              "word": "Centurion",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Vatican",
+          "children": [
+            {
+              "word": "Pope",
+              "children": []
+            },
+            {
+              "word": "Catholic Church",
+              "children": []
+            },
+            {
+              "word": "Sistine Chapel",
+              "children": []
+            },
+            {
+              "word": "St. Peter's Basilica",
+              "children": []
+            },
+            {
+              "word": "Rome",
+              "children": []
+            },
+            {
+              "word": "Vatican City",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Latin",
+          "children": [
+            {
+              "word": "Rome",
+              "children": []
+            },
+            {
+              "word": "Ancient Language",
+              "children": []
+            },
+            {
+              "word": "Roman Empire",
+              "children": []
+            },
+            {
+              "word": "Latin Alphabet",
+              "children": []
+            },
+            {
+              "word": "Vulgar Latin",
+              "children": []
+            },
+            {
+              "word": "Classical Latin",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Emperor",
+      "children": [
+        {
+          "word": "Monarch",
+          "children": [
+            {
+              "word": "Queen",
+              "children": []
+            },
+            {
+              "word": "King",
+              "children": []
+            },
+            {
+              "word": "Royalty",
+              "children": []
+            },
+            {
+              "word": "Crown",
+              "children": []
+            },
+            {
+              "word": "Throne",
+              "children": []
+            },
+            {
+              "word": "Dynasty",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Dynasty",
+          "children": [
+            {
+              "word": "Empire",
+              "children": []
+            },
+            {
+              "word": "Monarch",
+              "children": []
+            },
+            {
+              "word": "Kingdom",
+              "children": []
+            },
+            {
+              "word": "Royal Family",
+              "children": []
+            },
+            {
+              "word": "Succession",
+              "children": []
+            },
+            {
+              "word": "Reign",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Crown",
+          "children": [
+            {
+              "word": "King",
+              "children": []
+            },
+            {
+              "word": "Queen",
+              "children": []
+            },
+            {
+              "word": "Monarch",
+              "children": []
+            },
+            {
+              "word": "Royalty",
+              "children": []
+            },
+            {
+              "word": "Throne",
+              "children": []
+            },
+            {
+              "word": "Jewels",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Throne",
+          "children": [
+            {
+              "word": "King",
+              "children": []
+            },
+            {
+              "word": "Queen",
+              "children": []
+            },
+            {
+              "word": "Monarch",
+              "children": []
+            },
+            {
+              "word": "Royalty",
+              "children": []
+            },
+            {
+              "word": "Reign",
+              "children": []
+            },
+            {
+              "word": "Crown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Imperial",
+          "children": [
+            {
+              "word": "Empire",
+              "children": []
+            },
+            {
+              "word": "Emperor",
+              "children": []
+            },
+            {
+              "word": "Monarch",
+              "children": []
+            },
+            {
+              "word": "Crown",
+              "children": []
+            },
+            {
+              "word": "Royal",
+              "children": []
+            },
+            {
+              "word": "Authority",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Empire",
+          "children": [
+            {
+              "word": "Imperial",
+              "children": []
+            },
+            {
+              "word": "Emperor",
+              "children": []
+            },
+            {
+              "word": "Colony",
+              "children": []
+            },
+            {
+              "word": "Dynasty",
+              "children": []
+            },
+            {
+              "word": "Kingdom",
+              "children": []
+            },
+            {
+              "word": "Territory",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Brutus",
+      "children": [
+        {
+          "word": "Julius Caesar",
+          "children": [
+            {
+              "word": "Rome",
+              "children": []
+            },
+            {
+              "word": "Emperor",
+              "children": []
+            },
+            {
+              "word": "Brutus",
+              "children": []
+            },
+            {
+              "word": "Shakespeare",
+              "children": []
+            },
+            {
+              "word": "Assassination",
+              "children": []
+            },
+            {
+              "word": "Ides of March",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Assassination",
+          "children": [
+            {
+              "word": "Conspiracy",
+              "children": []
+            },
+            {
+              "word": "Murder",
+              "children": []
+            },
+            {
+              "word": "Sniper",
+              "children": []
+            },
+            {
+              "word": "Coup",
+              "children": []
+            },
+            {
+              "word": "Assassin",
+              "children": []
+            },
+            {
+              "word": "Target",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Rome",
+          "children": [
+            {
+              "word": "Colosseum",
+              "children": []
+            },
+            {
+              "word": "Italy",
+              "children": []
+            },
+            {
+              "word": "Gladiators",
+              "children": []
+            },
+            {
+              "word": "Roman Empire",
+              "children": []
+            },
+            {
+              "word": "Vatican",
+              "children": []
+            },
+            {
+              "word": "Latin",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Betrayal",
+          "children": [
+            {
+              "word": "Deception",
+              "children": []
+            },
+            {
+              "word": "Treachery",
+              "children": []
+            },
+            {
+              "word": "Disloyalty",
+              "children": []
+            },
+            {
+              "word": "Backstabbing",
+              "children": []
+            },
+            {
+              "word": "Traitor",
+              "children": []
+            },
+            {
+              "word": "Infidelity",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Senate",
+          "children": [
+            {
+              "word": "Legislation",
+              "children": []
+            },
+            {
+              "word": "Congress",
+              "children": []
+            },
+            {
+              "word": "Senator",
+              "children": []
+            },
+            {
+              "word": "Politics",
+              "children": []
+            },
+            {
+              "word": "Government",
+              "children": []
+            },
+            {
+              "word": "Debate",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Conspirator",
+          "children": [
+            {
+              "word": "Plot",
+              "children": []
+            },
+            {
+              "word": "Conspiracy",
+              "children": []
+            },
+            {
+              "word": "Betrayal",
+              "children": []
+            },
+            {
+              "word": "Scheme",
+              "children": []
+            },
+            {
+              "word": "Coup",
+              "children": []
+            },
+            {
+              "word": "Secret",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Shakespeare",
+      "children": [
+        {
+          "word": "Playwright",
+          "children": [
+            {
+              "word": "Drama",
+              "children": []
+            },
+            {
+              "word": "Theatre",
+              "children": []
+            },
+            {
+              "word": "Script",
+              "children": []
+            },
+            {
+              "word": "Actor",
+              "children": []
+            },
+            {
+              "word": "Stage",
+              "children": []
+            },
+            {
+              "word": "Performance",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Hamlet",
+          "children": [
+            {
+              "word": "Shakespeare",
+              "children": []
+            },
+            {
+              "word": "Tragedy",
+              "children": []
+            },
+            {
+              "word": "Ophelia",
+              "children": []
+            },
+            {
+              "word": "Claudius",
+              "children": []
+            },
+            {
+              "word": "Ghost",
+              "children": []
+            },
+            {
+              "word": "Play",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Romeo and Juliet",
+          "children": [
+            {
+              "word": "Shakespeare",
+              "children": []
+            },
+            {
+              "word": "Tragedy",
+              "children": []
+            },
+            {
+              "word": "Love",
+              "children": []
+            },
+            {
+              "word": "Verona",
+              "children": []
+            },
+            {
+              "word": "Capulet",
+              "children": []
+            },
+            {
+              "word": "Montague",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Macbeth",
+          "children": [
+            {
+              "word": "Shakespeare",
+              "children": []
+            },
+            {
+              "word": "Tragedy",
+              "children": []
+            },
+            {
+              "word": "Lady Macbeth",
+              "children": []
+            },
+            {
+              "word": "Scotland",
+              "children": []
+            },
+            {
+              "word": "Thane of Cawdor",
+              "children": []
+            },
+            {
+              "word": "Three Witches",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Sonnet",
+          "children": [
+            {
+              "word": "Poem",
+              "children": []
+            },
+            {
+              "word": "Shakespeare",
+              "children": []
+            },
+            {
+              "word": "Verse",
+              "children": []
+            },
+            {
+              "word": "Rhyme",
+              "children": []
+            },
+            {
+              "word": "Iambic Pentameter",
+              "children": []
+            },
+            {
+              "word": "Quatrain",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Elizabethan Era",
+          "children": [
+            {
+              "word": "Shakespeare",
+              "children": []
+            },
+            {
+              "word": "Queen Elizabeth I",
+              "children": []
+            },
+            {
+              "word": "Renaissance",
+              "children": []
+            },
+            {
+              "word": "Tudor",
+              "children": []
+            },
+            {
+              "word": "The Globe Theatre",
+              "children": []
+            },
+            {
+              "word": "Sonnet",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Assassination",
+      "children": [
+        {
+          "word": "Conspiracy",
+          "children": [
+            {
+              "word": "Secret",
+              "children": []
+            },
+            {
+              "word": "Plot",
+              "children": []
+            },
+            {
+              "word": "Scheme",
+              "children": []
+            },
+            {
+              "word": "Cover-up",
+              "children": []
+            },
+            {
+              "word": "Betrayal",
+              "children": []
+            },
+            {
+              "word": "Conspirator",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Murder",
+          "children": [
+            {
+              "word": "Homicide",
+              "children": []
+            },
+            {
+              "word": "Crime",
+              "children": []
+            },
+            {
+              "word": "Killer",
+              "children": []
+            },
+            {
+              "word": "Detective",
+              "children": []
+            },
+            {
+              "word": "Victim",
+              "children": []
+            },
+            {
+              "word": "Mystery",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Sniper",
+          "children": [
+            {
+              "word": "Rifle",
+              "children": []
+            },
+            {
+              "word": "Shooting",
+              "children": []
+            },
+            {
+              "word": "Camouflage",
+              "children": []
+            },
+            {
+              "word": "Marksman",
+              "children": []
+            },
+            {
+              "word": "Scope",
+              "children": []
+            },
+            {
+              "word": "Military",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Coup",
+          "children": [
+            {
+              "word": "Revolution",
+              "children": []
+            },
+            {
+              "word": "Rebellion",
+              "children": []
+            },
+            {
+              "word": "Insurrection",
+              "children": []
+            },
+            {
+              "word": "Overthrow",
+              "children": []
+            },
+            {
+              "word": "Government",
+              "children": []
+            },
+            {
+              "word": "Military",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Assassin",
+          "children": [
+            {
+              "word": "Hitman",
+              "children": []
+            },
+            {
+              "word": "Murder",
+              "children": []
+            },
+            {
+              "word": "Stealth",
+              "children": []
+            },
+            {
+              "word": "Target",
+              "children": []
+            },
+            {
+              "word": "Contract",
+              "children": []
+            },
+            {
+              "word": "Poison",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Target",
+          "children": [
+            {
+              "word": "Aim",
+              "children": []
+            },
+            {
+              "word": "Goal",
+              "children": []
+            },
+            {
+              "word": "Objective",
+              "children": []
+            },
+            {
+              "word": "Bullseye",
+              "children": []
+            },
+            {
+              "word": "Mark",
+              "children": []
+            },
+            {
+              "word": "Focus",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "Ides of March",
+      "children": [
+        {
+          "word": "Julius Caesar",
+          "children": [
+            {
+              "word": "Rome",
+              "children": []
+            },
+            {
+              "word": "Emperor",
+              "children": []
+            },
+            {
+              "word": "Brutus",
+              "children": []
+            },
+            {
+              "word": "Shakespeare",
+              "children": []
+            },
+            {
+              "word": "Assassination",
+              "children": []
+            },
+            {
+              "word": "Ides of March",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Assassination",
+          "children": [
+            {
+              "word": "Conspiracy",
+              "children": []
+            },
+            {
+              "word": "Murder",
+              "children": []
+            },
+            {
+              "word": "Sniper",
+              "children": []
+            },
+            {
+              "word": "Coup",
+              "children": []
+            },
+            {
+              "word": "Assassin",
+              "children": []
+            },
+            {
+              "word": "Target",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Rome",
+          "children": [
+            {
+              "word": "Colosseum",
+              "children": []
+            },
+            {
+              "word": "Italy",
+              "children": []
+            },
+            {
+              "word": "Gladiators",
+              "children": []
+            },
+            {
+              "word": "Roman Empire",
+              "children": []
+            },
+            {
+              "word": "Vatican",
+              "children": []
+            },
+            {
+              "word": "Latin",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Brutus",
+          "children": [
+            {
+              "word": "Julius Caesar",
+              "children": []
+            },
+            {
+              "word": "Assassination",
+              "children": []
+            },
+            {
+              "word": "Rome",
+              "children": []
+            },
+            {
+              "word": "Betrayal",
+              "children": []
+            },
+            {
+              "word": "Senate",
+              "children": []
+            },
+            {
+              "word": "Conspirator",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Shakespeare",
+          "children": [
+            {
+              "word": "Playwright",
+              "children": []
+            },
+            {
+              "word": "Hamlet",
+              "children": []
+            },
+            {
+              "word": "Romeo and Juliet",
+              "children": []
+            },
+            {
+              "word": "Macbeth",
+              "children": []
+            },
+            {
+              "word": "Sonnet",
+              "children": []
+            },
+            {
+              "word": "Elizabethan Era",
+              "children": []
+            }
+          ]
+        },
+        {
+          "word": "Prophecy",
+          "children": [
+            {
+              "word": "Oracle",
+              "children": []
+            },
+            {
+              "word": "Prediction",
+              "children": []
+            },
+            {
+              "word": "Fortune-telling",
+              "children": []
+            },
+            {
+              "word": "Seer",
+              "children": []
+            },
+            {
+              "word": "Vision",
+              "children": []
+            },
+            {
+              "word": "Fate",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

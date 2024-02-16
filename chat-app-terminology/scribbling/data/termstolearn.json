@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Basic Greetings and Personal Pronouns",
+        "words": ["hello", "goodbye", "yes", "no", "please", "thank you", "I", "you", "he", "she", "it", "we", "they", "my", "your", "his", "her", "its", "our", "their"]
+    },
+    {
+        "title": "Common Verbs and Basic Adjectives",
+        "words": ["am", "is", "are", "have", "do", "like", "want", "need", "good", "bad", "happy", "sad", "big", "small", "hot", "cold"]
+    },
+    {
+        "title": "Everyday Nouns and Simple Prepositions",
+        "words": ["name", "family", "friend", "house", "school", "work", "food", "water", "in", "on", "at", "to", "from", "with", "for", "of"]
+    },
+    {
+        "title": "Numbers, Days, and Time Expressions",
+        "words": ["one", "two", "three", "ten", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "morning", "afternoon", "evening", "night", "today", "tomorrow", "yesterday"]
+    },
+    {
+        "title": "Common Adverbs and Connecting Words",
+        "words": ["very", "really", "quite", "also", "too", "and", "but", "because", "so"]
+    },
+    {
+        "title": "Basic Action Verbs and Everyday Activities",
+        "words": ["go", "come", "see", "look", "listen", "talk", "eat", "drink", "read", "write", "play", "work"]
+    },
+    {
+        "title": "Describing Places and People",
+        "words": ["home", "school", "park", "shop", "city", "country", "man", "woman", "child", "teacher", "friend", "student"]
+    },
+    {
+        "title": "Common Objects and Colors",
+        "words": ["book", "pen", "chair", "table", "phone", "computer", "car", "bus", "red", "blue", "green", "yellow", "white", "black", "brown", "pink"]
+    },
+    {
+        "title": "Simple Questions and Responses",
+        "words": ["Who", "what", "where", "when", "why", "how", "Yes", "no", "maybe", "I don’t know"]
+    },
+    {
+        "title": "Basic Expressions of Feelings and Preferences",
+        "words": ["happy", "sad", "angry", "tired", "hungry", "thirsty", "I like", "I love", "I prefer", "I want", "I need"]
+    }
+]
