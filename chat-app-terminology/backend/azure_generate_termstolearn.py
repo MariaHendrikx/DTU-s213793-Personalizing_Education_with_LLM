@@ -13,8 +13,8 @@ class OpenAIGenerateTermsToLearn:
 
     def setup_openai(self):
         openai.api_type = "azure"
-        openai.api_base = "https://decmasterthesis25.openai.azure.com/"
-        openai.api_version = "2023-07-01-preview"
+        openai.api_base = "YOUR API BASE"
+        openai.api_version = "YOUR API VERSION"
         openai.api_key = self.api_key
 
     def save_terms_to_learn(self, termstolearn):

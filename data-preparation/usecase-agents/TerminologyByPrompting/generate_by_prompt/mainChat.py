@@ -8,8 +8,8 @@ import json
 class MainChat:
     def __init__(self, system_message):
         self.api_type = "azure"
-        self.api_base = "https://decmasterthesis25.openai.azure.com/"
-        self.api_version = "2023-07-01-preview"
+        self.api_base = "YOUR API BASE"
+        self.api_version = "YOUR API VERSION"
         self.api_key = os.getenv("AZURE_OPENAI_API_KEY")
         self.model = os.getenv("AZURE_OPENAI_MODEL")
 
